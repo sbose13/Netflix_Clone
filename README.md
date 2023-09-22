@@ -1,4 +1,7 @@
 # Netflix Clone (HTML & CSS)
+
+![image](https://github.com/sbose13/Netflix_Clone/assets/114461661/55eb0496-549f-4530-af08-8b25cbc88411)
+
 A Netflix clone crafted using pure HTML and CSS. An exercise in frontend design, capturing the essence and aesthetics of Netflix's user interface.
 
 Netflix Clone (HTML & CSS)
