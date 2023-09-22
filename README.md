@@ -18,6 +18,7 @@ Prerequisites :
 Any modern web browser (e.g., Chrome, Firefox, Safari).
 
 Installation :
+
 1. Clone the repository to your local machine:
 
 git clone: https://github.com/sbose13/Netflix_Clone
